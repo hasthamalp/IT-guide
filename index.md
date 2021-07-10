@@ -1,12 +1,20 @@
 ## Welcome to GitHub Pages
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source;Fullstack+Development;Data+Analytics;Documentations&center=true&width=380&height=45"></a>
-</p>
+
 
 
 You can use the [editor on GitHub](https://github.com/hasthamalp/IT-guide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source;Fullstack+Development;Data+Analytics;Documentations&center=true&width=380&height=45"></a>
+</p>
 
 ### Markdown
 
